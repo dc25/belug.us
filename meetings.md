@@ -3,16 +3,12 @@ layout: page
 title: Meetings
 permalink: /meetings/
 ---
+Bellevue Linux Users Group (BELUG) general meetings are held on the second Tuesday of every month starting at 6:30PM. Meetings officially end at 8:30, but everyone is welcome to stay longer (and many do).
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Meetings are informal. Activities include short talks/presentations, discussing recent news about Linux and other free software, answering questions about almost anything related to computers, helping attendees install Linux, providing advice about how to study Linux, networking and exchanging job information.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+As is the case with Linux and other free software, the meetings are absolutely free. They are free both in a monetary sense (i.e., there are no dues or other charges) and with regard to use (i.e., a diversity of ideas, comments, suggestions and questions is most welcome).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Everyone interested in Linux and/or other free software is invited -- including absolute beginners.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Meeting locations and updates are posted to the main page, e-mail: bellevuelinux (at) gmail.com. We look forward to meeting you.
