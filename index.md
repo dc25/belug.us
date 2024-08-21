@@ -1,18 +1,28 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
 layout: page
 ---
-Bellevue Linux Users Group (BELUG) general meetings are held on the second Tuesday of every month starting at 6:30PM. Meetings officially end at 8:30, but everyone is welcome to stay longer (and many do).
+Welcome to the Bellevue Linux Users Group (BELUG) website. BELUG is dedicated to promoting an interest in and an understanding of [Linux](https://www.linfo.org/linuxdef.html){:target="_blank"} and other [free software](https://www.linfo.org/free_software.html){:target="_blank"}. (New to Linux? Start [here](http://www.linfo.org/newbies.html){:target="_blank"}.)
 
-Meetings are informal. Activities include short talks/presentations, discussing recent news about Linux and other free software, answering questions about almost anything related to computers, helping attendees install Linux, providing advice about how to study Linux, networking and exchanging job information.
+BELUG - A friendly place to learn about Linux since February 2004!
 
-As is the case with Linux and other free software, the meetings are absolutely free. They are free both in a monetary sense (i.e., there are no dues or other charges) and with regard to use (i.e., a diversity of ideas, comments, suggestions and questions is most welcome).
+[Meetings](/meetings) are held on the second Tuesday of each month, starting at 6:30PM. We meet in-person at the [North Bellevue Community Center](https://bellevuewa.gov/city-government/departments/parks/community-centers/north-bellevue-community-center) in room D and on Zoom.
 
-Everyone interested in Linux and/or other free software is invited -- including absolute beginners.
+2024 Meeting Schedule:
 
-Meeting locations and updates are posted to the main page, e-mail: bellevuelinux (at) gmail.com. We look forward to meeting you.
+<ul>
+{% for meeting in site.data.meetings %}
+  <li>
+      {{ meeting.date  | date: "%A, %B %d, %Y"}} in-person and on <a href="https://us02web.zoom.us/j/131116407?pwd=OFkwZzZWMVhDdlhMTU91K2lOVkQvZz09">Zoom</a>
+  </li>
+{% endfor %}
+</ul>
+
+```
+North Bellevue Community Center
+4063 148th Ave NE
+Bellevue, WA. 98007
+USA
+```
+
+#### [BELUG](/index.html) is now associated with [KEGS](https://kegs.org){:target="_blank"}
+{: class="center"}
